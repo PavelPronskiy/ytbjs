@@ -1,0 +1,11 @@
+
+div.se-container
+{
+	margin:0 auto;
+	width:480px;
+}
+
+div.se-container [data-youtube-loader]
+{
+	outline:10px solid #ccc;
+}

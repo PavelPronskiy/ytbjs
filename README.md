@@ -4,8 +4,6 @@ This script initializes the YouTube player by clicking.
 
 Integration on website
 --------------------------------------
-
-
 ```html
 <head>
 	<script src="/jquery.js"></script>
@@ -22,5 +20,9 @@ Integration on website
 	     data-width="480"
 	     data-height="320"></div>
 </body>
-
 ```
+
+Online demo
+--------------------------------------
+[codepen.io](https://codepen.io/p_p/pen/ZJBgPY "example")
+
